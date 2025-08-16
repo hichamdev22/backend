@@ -1,0 +1,11 @@
+node_modules
+.next
+out
+.env
+.env.*
+*.local
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
+python/__pycache__
+.python-version
